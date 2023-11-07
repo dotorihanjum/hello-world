@@ -1,2 +1,2 @@
 # hello-world
-## wj lee
+## my name is wj lee
